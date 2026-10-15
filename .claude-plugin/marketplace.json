@@ -1,0 +1,15 @@
+{
+  "name": "ask-form",
+  "description": "ask-form: answer Claude's clarifying questions in one browser form instead of the terminal.",
+  "owner": {
+    "name": "tomasfiala555",
+    "url": "https://github.com/tomasfiala555"
+  },
+  "plugins": [
+    {
+      "name": "ask-form",
+      "source": "./",
+      "description": "Answer Claude's clarifying questions in one browser form instead of the terminal."
+    }
+  ]
+}

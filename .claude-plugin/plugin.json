@@ -1,0 +1,17 @@
+{
+  "name": "ask-form",
+  "version": "1.0.0",
+  "description": "Answer Claude's clarifying questions in one browser form instead of the terminal.",
+  "author": {
+    "name": "tomasfiala555",
+    "url": "https://github.com/tomasfiala555"
+  },
+  "homepage": "https://github.com/tomasfiala555/ask-form",
+  "repository": "https://github.com/tomasfiala555/ask-form",
+  "license": "MIT",
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/tomasfiala555/ask-form#readme",
+  "supportUrl": "https://github.com/tomasfiala555/ask-form/issues",
+  "privacyPolicyUrl": "https://github.com/tomasfiala555/ask-form#privacy",
+  "keywords": ["questions", "form", "clarifying-questions", "browser", "skill"]
+}

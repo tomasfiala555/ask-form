@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+prefs.json
+*.answers.json
+.DS_Store
